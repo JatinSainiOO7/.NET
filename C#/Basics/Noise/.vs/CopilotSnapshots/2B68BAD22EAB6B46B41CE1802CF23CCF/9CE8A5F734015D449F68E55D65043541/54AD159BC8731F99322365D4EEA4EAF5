@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    // Classic Perlin noise placeholder.
+    public class perlinNoise
+    {
+        // Evaluate perlin noise (placeholder).
+        public double Perlin()
+        {
+            return 0;
+        }
+
+        // Simple debug helper that writes to console.
+        public double Hello()
+        {
+            Console.WriteLine("Hello from Perlin Noise");
+            return 0;
+        }
+    }
+}

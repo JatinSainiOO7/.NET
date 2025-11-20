@@ -1,0 +1,32 @@
+﻿using System;
+using System.Security.Cryptography.X509Certificates;
+using Noise.Class;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, form program class");
+        cellularNoise    Cnoise   =     new cellularNoise();
+        fractalNoise     Fnoise   =     new fractalNoise();
+        gaborNoise       Gnoise   =     new gaborNoise();
+        perlinNoise      Pnoise   =     new perlinNoise();
+        primeGradient    PGnoise  =     new primeGradient();
+        simplexNoise     Snoise   =     new simplexNoise();
+        valueNoise       Vnoise   =     new valueNoise();
+
+        Cnoise.Cellular();
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}

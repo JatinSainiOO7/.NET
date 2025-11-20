@@ -1,0 +1,34 @@
+﻿using System;
+using Noise.Class;
+
+// Simple test program for noise classes. Keeps Main minimal and exposes HelloNoise helper.
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Entry point left intentionally empty for now.
+    }
+
+    // Creates instances of each noise class and calls their Hello helper methods.
+    static void HelloNoise()
+    {
+        // Instantiate noise classes (placeholders).
+        cellularNoise Cnoise = new cellularNoise();
+        fractalNoise Fnoise = new fractalNoise();
+        gaborNoise Gnoise = new gaborNoise();
+        perlinNoise Pnoise = new perlinNoise();
+        primeGradientNoise PGnoise = new primeGradientNoise();
+        simplexNoise Snoise = new simplexNoise();
+        valueNoise Vnoise = new valueNoise();
+
+        // Call simple test helpers that print to console.
+        Cnoise.Hello();
+        Fnoise.Hello();
+        Gnoise.Hello();
+        Pnoise.Hello();
+        PGnoise.Hello();
+        Snoise.Hello();
+        Vnoise.Hello();
+
+    }
+}

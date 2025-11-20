@@ -1,0 +1,14 @@
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\bin\Debug\net10.0\Noise.exe
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\bin\Debug\net10.0\Noise.deps.json
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\bin\Debug\net10.0\Noise.runtimeconfig.json
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\bin\Debug\net10.0\Noise.dll
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\bin\Debug\net10.0\Noise.pdb
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\Noise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\Noise.AssemblyInfoInputs.cache
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\Noise.AssemblyInfo.cs
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\Noise.csproj.CoreCompileInputs.cache
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\Noise.dll
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\refint\Noise.dll
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\Noise.pdb
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\Noise.genruntimeconfig.cache
+C:\Users\jatin\Desktop\.NET\C#\Basics\Noise\obj\Debug\net10.0\ref\Noise.dll

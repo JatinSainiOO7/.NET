@@ -1,0 +1,11 @@
+﻿namespace Noise.Class
+{
+    public class gaborNoise
+    {
+        public double Perlin()
+        {
+            consol.WriteLine("Hello from Gabor Noise");
+            return 0;
+        }
+    }
+}

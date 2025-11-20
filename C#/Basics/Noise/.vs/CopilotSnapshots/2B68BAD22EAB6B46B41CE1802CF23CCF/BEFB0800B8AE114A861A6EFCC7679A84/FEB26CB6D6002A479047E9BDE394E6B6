@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    public class perlinNoise
+    {
+        public double Perlin()
+        {
+            Console.WriteLine("Hello from Perlin Noise");
+            return 0;
+        }
+    }
+}

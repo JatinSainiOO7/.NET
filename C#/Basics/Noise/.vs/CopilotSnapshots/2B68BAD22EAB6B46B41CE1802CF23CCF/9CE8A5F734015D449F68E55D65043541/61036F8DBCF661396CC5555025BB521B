@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    // Value noise placeholder implementation.
+    public class valueNoise
+    {
+        // Placeholder evaluation method.
+        public double Value( )
+        {
+            return 0;
+        }
+
+        // Prints a simple debug message.
+        public double Hello( )
+        {
+            Console.WriteLine("Hello from Value Noise");
+            return 0;
+        }
+    }
+}

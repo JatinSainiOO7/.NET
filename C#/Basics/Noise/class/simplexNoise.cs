@@ -1,0 +1,18 @@
+using System;
+
+namespace Noise.Class
+{
+    public class simplexNoise
+    {
+        public double Simplex()
+        {
+            return 0;
+        }
+
+        public double Hello()
+        {
+            Console.WriteLine("Hello from Simplex Noise");
+            return 0;
+        }
+    }
+}

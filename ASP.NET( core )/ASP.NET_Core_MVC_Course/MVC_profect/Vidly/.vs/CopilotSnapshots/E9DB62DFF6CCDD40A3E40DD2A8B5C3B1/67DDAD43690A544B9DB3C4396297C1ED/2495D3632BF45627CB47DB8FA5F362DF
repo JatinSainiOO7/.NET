@@ -1,0 +1,16 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Vidly.Models;
+
+namespace Vidly.Data
+{
+    public class VidlyAppContext : DbContext
+    {
+        public VidlyAppContext(DbContextOptions<VidlyAppContext> options) : base(options) { }
+
+
+
+
+        DbSet<Expense> Expenses { get; set; }
+
+    }
+}

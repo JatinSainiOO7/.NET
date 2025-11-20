@@ -1,0 +1,14 @@
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\bin\Debug\net10.0\BasicConcepts.exe
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\bin\Debug\net10.0\BasicConcepts.deps.json
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\bin\Debug\net10.0\BasicConcepts.runtimeconfig.json
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\bin\Debug\net10.0\BasicConcepts.dll
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\bin\Debug\net10.0\BasicConcepts.pdb
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.AssemblyInfoInputs.cache
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.AssemblyInfo.cs
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.csproj.CoreCompileInputs.cache
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.dll
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\refint\BasicConcepts.dll
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.pdb
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.genruntimeconfig.cache
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\ref\BasicConcepts.dll

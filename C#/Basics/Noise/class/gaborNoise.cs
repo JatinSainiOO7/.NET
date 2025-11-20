@@ -1,0 +1,18 @@
+using System;
+
+namespace Noise.Class
+{
+    public class gaborNoise
+    {
+        public double Gabor()
+        {
+            return 0;
+        }
+
+        public double Hello()
+        {
+            Console.WriteLine("Hello from Gabor Noise");
+            return 0;
+        }
+    }
+}

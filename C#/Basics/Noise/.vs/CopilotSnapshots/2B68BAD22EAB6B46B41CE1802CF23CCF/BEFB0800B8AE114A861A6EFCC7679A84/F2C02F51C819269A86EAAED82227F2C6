@@ -1,0 +1,13 @@
+﻿using System;
+using Noise.Class;
+
+class program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, form program class");
+        Noise Pnoise = new perlinNoise();
+        Pnoise.Perlin();
+
+    }
+}

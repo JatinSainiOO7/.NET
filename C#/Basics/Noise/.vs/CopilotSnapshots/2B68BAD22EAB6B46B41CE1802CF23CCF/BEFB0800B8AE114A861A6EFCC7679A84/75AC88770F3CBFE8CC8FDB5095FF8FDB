@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    public class gaborNoise
+    {
+        public double Perlin()
+        {
+            Console.WriteLine("Hello from Gabor Noise");
+            return 0;
+        }
+    }
+}

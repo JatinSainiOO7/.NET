@@ -1,0 +1,19 @@
+﻿using System;
+using Noise.Class;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, form program class");
+        cellularNoise    Cnoise   =     new cellularNoise();
+        fractalNoise     Fnoise   =     new fractalNoise();
+        gaborNoise       Gnoise   =     new gaborNoise();
+        perlinNoise      Pnoise   =     new perlinNoise();
+        primeGradientNoise    PGnoise  =     new primeGradientNoise();
+        simplexNoise     Snoise   =     new simplexNoise();
+        valueNoise       Vnoise   =     new valueNoise();
+
+        Cnoise.Cellular();
+    }
+}

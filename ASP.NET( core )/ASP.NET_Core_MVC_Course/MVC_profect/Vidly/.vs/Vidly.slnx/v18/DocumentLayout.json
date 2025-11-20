@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\data\\vidlyappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\data\\vidlyappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|c:\\users\\jatin\\desktop\\.net\\asp.net( core )\\asp.net_core_mvc_course\\mvc_profect\\vidly\\vidly\\migrations\\20251116182905_initial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC2572A-DF79-A9C3-3CEC-F004D22D01C7}|Vidly\\Vidly.csproj|solutionrelative:vidly\\migrations\\20251116182905_initial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VidlyAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Data\\VidlyAppContext.cs",
+              "RelativeDocumentMoniker": "Vidly\\Data\\VidlyAppContext.cs",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Data\\VidlyAppContext.cs",
+              "RelativeToolTip": "Vidly\\Data\\VidlyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:58:57.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:58:28.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Vidly\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-18T08:27:44.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T08:27:13.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T08:27:06.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T08:25:47.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Models\\Expense.cs",
+              "RelativeToolTip": "Vidly\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:50:12.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Vidly\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:50:10.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251116182905_initial migration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Migrations\\20251116182905_initial migration.Designer.cs",
+              "RelativeDocumentMoniker": "Vidly\\Migrations\\20251116182905_initial migration.Designer.cs",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Migrations\\20251116182905_initial migration.Designer.cs",
+              "RelativeToolTip": "Vidly\\Migrations\\20251116182905_initial migration.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:49:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\appsettings.json",
+              "RelativeDocumentMoniker": "Vidly\\appsettings.json",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\appsettings.json",
+              "RelativeToolTip": "Vidly\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T18:49:24.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Program.cs",
+              "RelativeDocumentMoniker": "Vidly\\Program.cs",
+              "ToolTip": "C:\\Users\\jatin\\Desktop\\.NET\\ASP.NET( core )\\ASP.NET_Core_MVC_Course\\MVC_profect\\Vidly\\Vidly\\Program.cs",
+              "RelativeToolTip": "Vidly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T18:21:03.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    // Gabor noise placeholder used for demo output.
+    public class gaborNoise
+    {
+        // Placeholder for Gabor noise evaluation.
+        public double Gabor()
+        {
+            return 0;
+        }
+
+        // Prints a simple debug message.
+        public double Hello()
+        {
+            Console.WriteLine("Hello from Gabor Noise");
+            return 0;
+        }
+    }
+}

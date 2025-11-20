@@ -1,0 +1,46 @@
+﻿using System;
+
+namespace BasicConceptsClasses
+{
+    // Simple console IO demo
+    public static class IO
+    {
+        // Entry point for the IO demo
+        public static void Run()
+        {
+            Console.WriteLine("--- Basic IO Demo ---");
+
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}!");
+
+            Console.Write("Enter a number: ");
+            if (int.TryParse(Console.ReadLine(), out int num))
+            {
+                Console.WriteLine($"You entered: {num}");
+            }
+            else
+            {
+                Console.WriteLine("Invalid number entered.");
+            }
+
+            Console.WriteLine();
+        }
+
+        // A simple class that can be instantiated as 'aobj' in Program.cs
+        public class A
+        {
+            public string Message { get; set; }
+
+            public A()
+            {
+                Message = "I'm object 'aobj' from class A.";
+            }
+
+            public override string ToString()
+            {
+                return Message;
+            }
+        }
+    }
+}

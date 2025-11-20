@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    // Cellular (Worley) noise placeholder implementation.
+    // Contains small helper methods used by the demo program.
+    public class cellularNoise
+    {
+        // Placeholder for the actual Cellular noise computation.
+        public double Cellular()
+        {
+            return 0;
+        }
+
+        // Simple helper that prints a message to the console for testing.
+        public double Hello()
+        {
+            Console.WriteLine("Hello from Cellular Noise");
+            return 0;
+        }
+
+    }
+}

@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    public class primeGradientNoise
+    {
+        public double Perlin()
+        {
+            Console.WriteLine("Hello from PrimeGradient Noise");
+            return 0;
+        }
+    }
+}

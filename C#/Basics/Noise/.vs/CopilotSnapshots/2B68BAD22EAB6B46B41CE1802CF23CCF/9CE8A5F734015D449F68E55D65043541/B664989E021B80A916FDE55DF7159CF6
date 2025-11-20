@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    // Simplex noise placeholder implementation.
+    public class simplexNoise
+    {
+        // Evaluate simplex noise (placeholder).
+        public double Simplex()
+        {
+            return 0;
+        }
+
+        // Prints a simple debug message.
+        public double Hello()
+        {
+            Console.WriteLine("Hello from Simplex Noise");
+            return 0;
+        }
+    }
+}

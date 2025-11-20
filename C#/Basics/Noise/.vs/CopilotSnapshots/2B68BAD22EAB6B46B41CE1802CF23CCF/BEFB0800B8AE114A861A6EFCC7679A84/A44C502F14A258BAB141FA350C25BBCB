@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    public class cellularNoise
+    {
+        public double Perlin()
+        {
+            Console.WriteLine("Hello from Cellular Noise");
+            return 0;
+        }
+    }
+}

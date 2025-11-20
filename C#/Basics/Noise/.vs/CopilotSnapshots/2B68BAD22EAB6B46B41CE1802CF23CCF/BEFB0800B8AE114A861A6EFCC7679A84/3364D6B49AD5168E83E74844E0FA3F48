@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    public class fractalNoise
+    {
+        public double Perlin()
+        {
+            Console.WriteLine("Hello from Fractal Noise");
+            return 0;
+        }
+    }
+}

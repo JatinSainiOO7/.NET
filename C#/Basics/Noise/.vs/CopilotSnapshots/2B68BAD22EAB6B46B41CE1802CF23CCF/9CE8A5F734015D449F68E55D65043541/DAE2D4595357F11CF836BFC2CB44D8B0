@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace Noise.Class
+{
+    // Prime gradient noise placeholder.
+    public class primeGradientNoise
+    {
+        // Placeholder implementation.
+        public double PrimeGradient()
+        {
+            return 0;
+        }
+
+        // Prints a simple debug message.
+        public double Hello()
+        {
+            Console.WriteLine("Hello from Prime Gradient Noise");
+            return 0;
+        }
+    }
+}
