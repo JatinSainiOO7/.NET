@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Noise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cebd362c3e1f6f3e9acd042339bdc8b561061831")]
 [assembly: System.Reflection.AssemblyProductAttribute("Noise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Noise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
