@@ -12,3 +12,4 @@ C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\refint\Bas
 C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.pdb
 C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.genruntimeconfig.cache
 C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\ref\BasicConcepts.dll
+C:\Users\jatin\Desktop\.NET\C#\Basics\BasicConcepts\obj\Debug\net10.0\BasicConcepts.sourcelink.json

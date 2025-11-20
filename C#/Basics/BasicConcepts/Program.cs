@@ -7,7 +7,8 @@ class Program
         //IO.Run();
         //GenericDemo.Run();
         //IO.Example();
-
+        //Projection.ProjectionFunction();
+        //Projection.singleFieldProjection();
 
         Console.WriteLine("Press any key to exit...");
         Console.ReadLine();

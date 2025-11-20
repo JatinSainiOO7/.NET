@@ -1,0 +1,134 @@
+﻿using System;
+using System.Collections.Generic;	
+using System.Linq;
+/*
+Projection means selecting specific fields, transforming objects, or creating new shapes from your data source using LINQ.
+In LINQ, projections are done mainly using:
+	++  select keyword(Query Syntax)
+	++ .Select() method(Method Syntax)  
+
+🔵 Why Use Projection?
+	✔ Improve performance (fetch only required data)
+	✔ Create DTOs / View Models
+	✔ Convert data shape
+	✔ Extract specific fields
+	✔ Apply transformation during selection
+
+🔵 Summary Table:
+	| Scenario                   | LINQ Feature                   |
+	| -------------------------- | ------------------------------ |
+	| Extract single property    | `Select(x => x.Property)`      |
+	| Create anonymous object    | `new { }` inside Select        |
+	| Convert to DTO class       | `new ClassName { }`            |
+	| Flatten nested collections | `SelectMany()`                 |
+	| Add calculations           | `Select(x => x.Property + 10)` |
+	| Add index                  | `Select((x, index) => ...)`    |
+ */
+namespace BasicConceptsClasses
+{
+
+	public static class Projection
+	{
+
+		public static void singleFieldProjection()
+		{
+			Console.WriteLine("---- Single Field Projection ----");
+			Console.Write("Enter a number: ");
+			int num = Convert.ToInt32(Console.ReadLine());
+
+
+
+		}
+
+		public class Person
+		{                                                                    	// Typical projection use: Select(p => p.Name)
+			public string Name { get; set; }                                    // Gets or sets the person's full name.   
+			public int Age { get; set; }                    			        // Typical projection use: Select(p => p.City) or Select(p => new { p.Name, p.City })
+			public string City { get; set; }                                    // Parameterless constructor is useful for serializers and LINQ sample data initialization.
+			public Person() { }                                                 // Initializes a new instance of the <see cref="Person"/> class.
+			public Person(string name, int age, string city)
+			{
+				Name = name;
+				Age = age;                                                      // Useful when printing projection results during demos.
+				City = city;                                                    // Returns a short human-readable representation.
+			}
+			public override string ToString()
+			{
+				return $"{Name} ({Age}) - {City}";
+			}
+		}
+
+		public class Employee
+		{
+			public string Name { get; set; }
+			public int Age { get; set; }
+			public string City { get; set; }
+			public int Id { get; set; }
+			public string PreCompany { get; set; }
+			public Employee() { }
+			public Employee(string name, int age, string city, int id, string preCompany)
+			{
+				Name = name;
+				Age = age;
+				City = city;
+				Id = id;
+				PreCompany = preCompany;
+				
+			}
+			public override string ToString()
+			{
+				return $"{Name} ({Age}) - {City}";
+			}
+		}
+
+		public static void ProjectionFunction()
+		{
+			// Sample data
+			List<Person> people = new List<Person>()
+			{
+			new Person { Name = "Jatin", Age = 22, City = "Delhi" },
+			new Person { Name = "Rohan", Age = 25, City = "Mumbai" },
+			new Person { Name = "Simran", Age = 20, City = "Pune" },
+			new Person { Name = "Sachin", Age = 21, City = "Agra" }
+			};
+
+			List<Employee> employee = new List<Employee>()
+			{
+			new Employee { Name = "Jatin", Age = 22, City = "Delhi", Id = 121, PreCompany = "None" },
+			new Employee { Name = "Rohan", Age = 25, City = "Mumbai", Id = 141, PreCompany = "None" },
+			new Employee { Name = "Simran", Age = 20, City = "Pune", Id = 131, PreCompany = "None" },
+			new Employee { Name = "Sachin", Age = 21, City = "Agra", Id = 161, PreCompany = "None" }
+			};
+			// 1. Projection selecting single field
+			var names = employee.Select(p => p.Name);
+			Console.WriteLine("All Names:");
+			foreach (var name in names) Console.WriteLine(name);
+
+			// 2. Projection selecting multiple fields (anonymous object)
+			var basicInfo = people.Select(p => new { p.Name, p.City });
+			Console.WriteLine("\nName + City:");
+			foreach (var item in basicInfo) Console.WriteLine($"{item.Name} - {item.City}");
+
+			// 3. Projection with calculation
+			var ageInFive = people.Select(p => new
+			{
+				p.Name,
+				FutureAge = p.Age + 5
+			});
+			Console.WriteLine("\nAge After 5 Years:");
+			foreach (var item in ageInFive) Console.WriteLine($"{item.Name} -> {item.FutureAge}");
+
+			// 4. Projection with index
+			var withIndex = people.Select((p, index) => new
+			{
+				Index = index,
+				p.Name
+			});
+			Console.WriteLine("\nWith Index:");
+			foreach (var item in withIndex) Console.WriteLine($"{item.Index}: {item.Name}");
+		}
+
+
+	}
+
+}

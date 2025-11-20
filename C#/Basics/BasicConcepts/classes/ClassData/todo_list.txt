@@ -1,4 +1,4 @@
 1. Learn C# Generics
 2. Learn File I/O
 3. Build a Portfolio
-Last Updated: 11/20/2025 7:23:02 PM
+Last Updated: 11/20/2025 11:39:48 PM
